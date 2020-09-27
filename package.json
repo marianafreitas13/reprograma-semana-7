@@ -1,0 +1,26 @@
+  
+{
+  " nome " : " reprograma-semana-7 " ,
+  " versão " : " 1.0.0 " ,
+  " descrição " : " " ,
+  " main " : " index.js " ,
+  " scripts " : {
+    " test " : " echo \" Erro: nenhum teste especificado \ " && exit 1 "
+  },
+  " repositório " : {
+    " type " : " git " ,  " palavras-chave " : [],
+    " url " : " git + https: //github.com/marianafreitas13/reprograma-semana-7
+  " autor " : " " ,
+  " licença " : " ISC " ,
+  " bugs " : {
+  " url " : " https://github.com/marianafreitas13/reprograma-semana-7/issues"
+  },
+  
+  " homepage " : " https://github.com/marianafreitas13/reprograma-semana-7#readme ",
+  " dependências " : {
+    " expresso " : " ^ 4.17.1 "
+  },
+  " devDependencies " : {
+    " nodemon " : " ^ 2.0.4 "
+  }
+}
